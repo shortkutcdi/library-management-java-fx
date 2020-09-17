@@ -1,0 +1,27 @@
+.button {
+	-fx-background-color: #1976D2;
+	-fx-border-radius: 0px;
+	-fx-background-radius: 0px;
+	-fx-text-fill: white;
+}
+
+.stick_buttons {
+	-fx-border-width: 0 0 2 0; 
+	-fx-border-color: #1565C0;
+}
+
+.button:hover {
+	-fx-background-color: #388e3c;
+}
+
+.light-button {
+	-fx-background-color: #00ACC1;
+}
+
+.setup-button {
+	-fx-background-color: #424242;
+}
+
+.setup-button:hover {
+	-fx-background-color: #0388d1;
+}

@@ -8,33 +8,33 @@ To configure a javaFx project go to [openjfx.io](https://openjfx.io/openjfx-docs
 
 ### Login Window
 
-<img title="login window" src="__doc/img/library-assistant-login.png">
+<img title="login window" src="__doc/img/library-assistant-login.png" width="300px" />
 
 ### Main window
 
-<img title="main window" src="__doc/img/library-assistant-main-window.png">
+<img title="main window" src="__doc/img/library-assistant-main-window.png"  width="600px" />
 
 ### Renew submisssion window
 
-<img title="Renew submission window" src="__doc/img/library-assistant-main-window-renew_submission.png">
+<img title="Renew submission window" src="__doc/img/library-assistant-main-window-renew_submission.png"  width="600px" />
 
 ### Listing members window
 
-<img title="list members window" src="__doc/img/library-assistant-list-members.png">
+<img title="list members window" src="__doc/img/library-assistant-list-members.png"  width"400px" />
 
 
 ### Listing books window
 
-<img title="list books window" src="__doc/img/library-assistant-list-books.png">
+<img title="list books window" src="__doc/img/library-assistant-list-books.png"   width="400px" />
 
 ### Add book window
 
-<img title="add book window" src="__doc/img/library-assistant-add-books.png">
+<img title="add book window" src="__doc/img/library-assistant-add-books.png" width="300px" />
 
 ### Add member window
 
-<img title="add member window" src="__doc/img/library-assistant-add-member.png">
+<img title="add member window" src="__doc/img/library-assistant-add-member.png" width="300px" />
 
 ### Settings window
 
-<img title="setting window" src="__doc/img/library-assistant-settings.png">
+<img title="setting window" src="__doc/img/library-assistant-settings.png" width="300px" />

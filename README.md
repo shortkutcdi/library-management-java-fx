@@ -20,12 +20,12 @@ To configure a javaFx project go to [openjfx.io](https://openjfx.io/openjfx-docs
 
 ### Listing members window
 
-<img title="list members window" src="__doc/img/library-assistant-list-members.png"  width"400px" />
+<img title="list members window" src="__doc/img/library-assistant-list-members.png"  width="500px" />
 
 
 ### Listing books window
 
-<img title="list books window" src="__doc/img/library-assistant-list-books.png"   width="400px" />
+<img title="list books window" src="__doc/img/library-assistant-list-books.png"   width="500px" />
 
 ### Add book window
 
